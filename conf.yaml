@@ -1,0 +1,20 @@
+LogFile:
+    List: [/home/iswarya/Dakshin/topnoisy_0515/topnoisy_5840.txt,/home/iswarya/Dakshin/topnoisy_0515/topnoisy_8840.txt]
+    RebootFirstLIne: "Kernel Diagnostic Report|Reboot Failure Report|Diagnostics Failure Report|PowerTV Diagnostic Report"
+    Reasons: [X Reason, Y Reason]
+    HW Model: 3
+    Purge Duration : 30
+    HEList:
+        CHN:
+            Userid : sqatest
+            pwd : sqatest123
+            Duration : 12
+            Logpath : /export/home/sqatest/
+            Ip : 10.78.199.21
+        ALT:
+            Userid : dncsop
+            pwd : scnd@123
+            Duration : 12
+            Logpath : /export/home/dncsop/
+            Ip : 10.78.193.216  
+

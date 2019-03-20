@@ -1,0 +1,4 @@
+IP,Cause,Reason,Thread,MAC,HW MODEL
+192.168.125.220,0x92 - production_assert,OCAP initiated reset... *** Monitor,"686 - ""newfsThread"", Priority: 31, AppID: 0",f4:4b:2a:8e:fa:b0,"5840, HW VER: 15, BL VER: 0c.5c"
+192.168.125.7,0x92 - production_assert,OCAP initiated reset... Host.reboot() called,"1548 - ""j:OurTVTimerThread"", Priority: 31",f4:4b:2a:8e:fc:1c,"5840, HW VER: 15, BL VER: 0c.5c"
+4f.2.0.0.0.0.0.0.0.0.0.0.0.0.a8.2e,0x92 - production_assert,OCAP initiated reset... Host.reboot() called,"1534- ""j:OurTVTimerThread"", Priority: 31",f4:4b:2a:8e:fc:1c,"5840, HW VER: 15, BL VER: 0c.5c"

@@ -1,0 +1,15 @@
+{
+    "Today": {
+        "Intentional": 0, 
+        "Total": "1"
+    }, 
+    "Yesterday": {
+        "Intentional": 0, 
+        "Silent": "1", 
+        "Total": "7"
+    }, 
+    "dayBefore": {
+        "Intentional": 0, 
+        "Total": "1"
+    }
+}
