@@ -1,0 +1,20 @@
+		-------------------------------------------------------------
+				Instance Method - Class Method - Static Method 
+		-------------------------------------------------------------
+Instance Method:
+	-> It takes "self or user defined" arguments as first parameter.
+	-> Class should get call using object (obj_clsname = clasname())
+	-> No need to use anything (like decorators)  before function
+	-> It cannot modify "class state".
+
+Class Method :
+	-> It takes "cls" as first parameter.
+	-> Class can get call either object or classname (obj_name.mtdname() or classname.methodname())
+	-> Have to use @classmethod before the function.
+	-> It has access for modify the "class state"
+	
+Static Method :
+	-> First parameter is not specific.
+	-> Class can get call either object or classname (obj_name.mtdname() or classname.methodname())
+	-> Have to use @staticmethod before the function.
+	-> It cannot modify "class state".
